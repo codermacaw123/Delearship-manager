@@ -1,0 +1,749 @@
+[
+   {
+      "VIN": "JLR2026EPSVCYP",
+      "Model": "E-Pace",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "PHEV",
+      "Price": 133000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026D1OCORE",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Electric",
+      "Price": 216000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026FIAUYED",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 117000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026D9OCYEE",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Electric",
+      "Price": 98000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026FTOCPUP",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "PHEV",
+      "Price": 164000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026RRSEGRH",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Hybrid",
+      "Price": 281000,
+      "Color": "Gray"
+   },
+   {
+      "VIN": "JLR2026RRAUMAH",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Hybrid",
+      "Price": 160000,
+      "Color": "Magenta"
+   },
+   {
+      "VIN": "JLR2026FTAUBRD",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 355000,
+      "Color": "Brown"
+   },
+   {
+      "VIN": "JLR2026D1AUBLE",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Electric",
+      "Price": 168000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026EPOCMAH",
+      "Model": "E-Pace",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Hybrid",
+      "Price": 133000,
+      "Color": "Magenta"
+   },
+   {
+      "VIN": "JLR2026RRANCYE",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Electric",
+      "Price": 404000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026RROCGRP",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "PHEV",
+      "Price": 225000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026D9SEWHG",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Gasoline",
+      "Price": 65000,
+      "Color": "White"
+   },
+   {
+      "VIN": "JLR2026FPAUORP",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "PHEV",
+      "Price": 168000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026RSSCYH",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Hybrid",
+      "Price": 114000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026REAUORH",
+      "Model": "Range_Rover_Evoque",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Hybrid",
+      "Price": 113000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026CXSVYEH",
+      "Model": "CX-75",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Hybrid",
+      "Price": 120000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026FPOCYEE",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Electric",
+      "Price": 126000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026D1HSBLH",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Hybrid",
+      "Price": 226000,
+      "Color": "Black"
+   },
+   {
+      "VIN": "JLR2026FPSBLE",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Electric",
+      "Price": 163000,
+      "Color": "Black"
+   },
+   {
+      "VIN": "JLR2026EPANCYG",
+      "Model": "E-Pace",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Gasoline",
+      "Price": 188000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026FISVGRP",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "PHEV",
+      "Price": 170000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026DYSEPIG",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Gasoline",
+      "Price": 118000,
+      "Color": "Pink"
+   },
+   {
+      "VIN": "JLR2026RVAUGOP",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "PHEV",
+      "Price": 112000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026RVSORD",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Diesel",
+      "Price": 130000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026DYHSREH",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Hybrid",
+      "Price": 224000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026FTAUORP",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "PHEV",
+      "Price": 186000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026D1SREG",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Gasoline",
+      "Price": 168000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026REANMAH",
+      "Model": "Range_Rover_Evoque",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Hybrid",
+      "Price": 83000,
+      "Color": "Magenta"
+   },
+   {
+      "VIN": "JLR2026D1SEBLD",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Diesel",
+      "Price": 119000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026RSOCBLP",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "PHEV",
+      "Price": 408000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026EPSEGRD",
+      "Model": "E-Pace",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Diesel",
+      "Price": 137000,
+      "Color": "Gray"
+   },
+   {
+      "VIN": "JLR2026DYOCWHH",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Hybrid",
+      "Price": 172000,
+      "Color": "White"
+   },
+   {
+      "VIN": "JLR2026DYHSPUE",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Electric",
+      "Price": 127000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026D3SEBRG",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Gasoline",
+      "Price": 250000,
+      "Color": "Brown"
+   },
+   {
+      "VIN": "JLR2026RSOCMAG",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Gasoline",
+      "Price": 385000,
+      "Color": "Magenta"
+   },
+   {
+      "VIN": "JLR2026FPSVREG",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Gasoline",
+      "Price": 194000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026RSSEPIH",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Hybrid",
+      "Price": 290000,
+      "Color": "Pink"
+   },
+   {
+      "VIN": "JLR2026D3HSGRE",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Electric",
+      "Price": 355000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026RESVPIP",
+      "Model": "Range_Rover_Evoque",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "PHEV",
+      "Price": 180000,
+      "Color": "Pink"
+   },
+   {
+      "VIN": "JLR2026FIAUBLP",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "PHEV",
+      "Price": 123000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026RESEWHE",
+      "Model": "Range_Rover_Evoque",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Electric",
+      "Price": 155000,
+      "Color": "White"
+   },
+   {
+      "VIN": "JLR2026FISEPUD",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Diesel",
+      "Price": 145000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026D9HSORE",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Electric",
+      "Price": 93000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026FPSVRED",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Diesel",
+      "Price": 155000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026RVHSBLE",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Electric",
+      "Price": 81000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026D1AUYED",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 176000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026D1HSBLD",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Diesel",
+      "Price": 107000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026FTAUBLD",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 322000,
+      "Color": "Black"
+   },
+   {
+      "VIN": "JLR2026RVOCCYG",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Gasoline",
+      "Price": 176000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026D9OCPUP",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "PHEV",
+      "Price": 200000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026D9SGOP",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "PHEV",
+      "Price": 131000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026CXAUREE",
+      "Model": "CX-75",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Electric",
+      "Price": 223000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026D1SVGOE",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Electric",
+      "Price": 203000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026EPSEBLE",
+      "Model": "E-Pace",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Electric",
+      "Price": 143000,
+      "Color": "Black"
+   },
+   {
+      "VIN": "JLR2026D1SPUE",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Electric",
+      "Price": 120000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026RVANGOD",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Diesel",
+      "Price": 108000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026FPOCPIG",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Gasoline",
+      "Price": 173000,
+      "Color": "Pink"
+   },
+   {
+      "VIN": "JLR2026D1SEREH",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Hybrid",
+      "Price": 96000,
+      "Color": "Red"
+   },
+   {
+      "VIN": "JLR2026D9SEMAD",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Diesel",
+      "Price": 149000,
+      "Color": "Magenta"
+   },
+   {
+      "VIN": "JLR2026D3SBRG",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Gasoline",
+      "Price": 284000,
+      "Color": "Brown"
+   },
+   {
+      "VIN": "JLR2026RSSVYEE",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Electric",
+      "Price": 371000,
+      "Color": "Yellow"
+   },
+   {
+      "VIN": "JLR2026D3SPUH",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Hybrid",
+      "Price": 197000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026FPANGOE",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Electric",
+      "Price": 183000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026DYANPUG",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Gasoline",
+      "Price": 225000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026D9AUGRH",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Hybrid",
+      "Price": 162000,
+      "Color": "Gray"
+   },
+   {
+      "VIN": "JLR2026RRSBLD",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "Diesel",
+      "Price": 199000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026D1ANGOG",
+      "Model": "Defender_110",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Gasoline",
+      "Price": 172000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026D3ANGOP",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "PHEV",
+      "Price": 293000,
+      "Color": "Gold"
+   },
+   {
+      "VIN": "JLR2026D9OCGRG",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "OCTA",
+      "Fuel": "Gasoline",
+      "Price": 113000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026RVAUCYP",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "PHEV",
+      "Price": 140000,
+      "Color": "Cyan"
+   },
+   {
+      "VIN": "JLR2026D9ANBLD",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Diesel",
+      "Price": 215000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026FTSVBRE",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Electric",
+      "Price": 328000,
+      "Color": "Brown"
+   },
+   {
+      "VIN": "JLR2026RSSVORD",
+      "Model": "Range_Rover_Sport",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "Diesel",
+      "Price": 394000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026FTHSBLE",
+      "Model": "F-Type",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Electric",
+      "Price": 306000,
+      "Color": "Blue"
+   },
+   {
+      "VIN": "JLR2026RRSWHP",
+      "Model": "Range_Rover",
+      "Year": 2026,
+      "Trim": "S",
+      "Fuel": "PHEV",
+      "Price": 361000,
+      "Color": "White"
+   },
+   {
+      "VIN": "JLR2026RVSEORH",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Hybrid",
+      "Price": 105000,
+      "Color": "Orange"
+   },
+   {
+      "VIN": "JLR2026FIAUGRE",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Electric",
+      "Price": 193000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026DYSEPUG",
+      "Model": "Discovery",
+      "Year": 2026,
+      "Trim": "SE",
+      "Fuel": "Gasoline",
+      "Price": 186000,
+      "Color": "Purple"
+   },
+   {
+      "VIN": "JLR2026D9ANBRH",
+      "Model": "Defender_90",
+      "Year": 2026,
+      "Trim": "Anniversary",
+      "Fuel": "Hybrid",
+      "Price": 131000,
+      "Color": "Brown"
+   },
+   {
+      "VIN": "JLR2026FIAUPID",
+      "Model": "I-Type",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 137000,
+      "Color": "Pink"
+   },
+   {
+      "VIN": "JLR2026FPHSGRH",
+      "Model": "F-Pace",
+      "Year": 2026,
+      "Trim": "HSE",
+      "Fuel": "Hybrid",
+      "Price": 140000,
+      "Color": "Green"
+   },
+   {
+      "VIN": "JLR2026D3AUWHD",
+      "Model": "Defender_130",
+      "Year": 2026,
+      "Trim": "Autobiography",
+      "Fuel": "Diesel",
+      "Price": 342000,
+      "Color": "White"
+   }
+]

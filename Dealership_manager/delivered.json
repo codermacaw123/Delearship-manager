@@ -1,0 +1,68 @@
+[
+   {
+      "VIN": "JLR2026RVSVMP78EF",
+      "Model": "Range_Rover_Velar",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "PHEV",
+      "Price": 179000,
+      "Color": "Magenta",
+      "Date": "09-09-2025",
+      "Delivery_date": "20-09-2025"
+   },
+   {
+      "VIN": "JLR2026CXSVGE8BB3",
+      "Model": "CX-75",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "Electric",
+      "Price": 161000,
+      "Color": "Green",
+      "Date": "07-09-2025",
+      "Delivery_date": "20-09-2025"
+   },
+   {
+      "VIN": "JLR2026D1SEORH",
+      "Model": "Defender_110",
+      "Trim": "SE",
+      "Year": 2026,
+      "Fuel": "Hybrid",
+      "Price": 190000,
+      "Color": "Orange",
+      "Date": "20-09-2025",
+      "Delivery_date": "20-09-2025"
+   },
+   {
+      "VIN": "JLR2026RRSVCYH",
+      "Model": "Range_Rover",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "Hybrid",
+      "Price": 208000,
+      "Color": "Cyan",
+      "Date": "20-09-2025",
+      "Delivery_date": "20-09-2025"
+   },
+   {
+      "VIN": "JLR2026FISBLG",
+      "Model": "I-Type",
+      "Trim": "S",
+      "Year": 2026,
+      "Fuel": "Gasoline",
+      "Price": 134000,
+      "Color": "Blue",
+      "Date": "24-09-2025",
+      "Delivery_date": "24-09-2025"
+   },
+   {
+      "VIN": "JLR2026FPSVGRE",
+      "Model": "F-Pace",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "Electric",
+      "Price": 128000,
+      "Color": "Green",
+      "Date": "25-09-2025",
+      "Delivery_date": "25-09-2025"
+   }
+]

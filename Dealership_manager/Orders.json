@@ -1,0 +1,122 @@
+[
+   {
+      "VIN": "JLR2026RVSVMAP",
+      "Model": "Range_Rover_Velar",
+      "Year": 2026,
+      "Trim": "SV",
+      "Fuel": "PHEV",
+      "Price": 141000,
+      "Color": "Magenta",
+      "Date": "07-02-2011"
+   },
+   {
+      "VIN": "JLR2026RVSBE0D9A",
+      "Model": "Range_Rover_Velar",
+      "Trim": "S",
+      "Year": 2026,
+      "Fuel": "Electric",
+      "Price": 161000,
+      "Color": "Blue",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026RRHSBGB547",
+      "Model": "Range_Rover",
+      "Trim": "HSE",
+      "Year": 2026,
+      "Fuel": "Gasoline",
+      "Price": 248000,
+      "Color": "Black",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026RVANBD5966",
+      "Model": "Range_Rover_Velar",
+      "Trim": "Anniversary",
+      "Year": 2026,
+      "Fuel": "Diesel",
+      "Price": 268000,
+      "Color": "Black",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026RVSVMPB987",
+      "Model": "Range_Rover_Velar",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "PHEV",
+      "Price": 161000,
+      "Color": "Magenta",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026RVSVMP495E",
+      "Model": "Range_Rover_Velar",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "PHEV",
+      "Price": 182000,
+      "Color": "Magenta",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026RVSVMP6B68",
+      "Model": "Range_Rover_Velar",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "PHEV",
+      "Price": 270000,
+      "Color": "Magenta",
+      "Date": "22-08-2025"
+   },
+   {
+      "VIN": "JLR2026CXSVGE8BB3",
+      "Model": "CX-75",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "Electric",
+      "Price": 161000,
+      "Color": "Green",
+      "Date": "07-09-2025"
+   },
+   {
+      "VIN": "JLR2026RVSVMP78EF",
+      "Model": "Range_Rover_Velar",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "PHEV",
+      "Price": 179000,
+      "Color": "Magenta",
+      "Date": "09-09-2025"
+   },
+   {
+      "VIN": "JLR2026CXOCGGA9DC",
+      "Model": "CX-75",
+      "Trim": "OCTA",
+      "Year": 2026,
+      "Fuel": "Gasoline",
+      "Price": 253000,
+      "Color": "Green",
+      "Date": "11-09-2025"
+   },
+   {
+      "VIN": "JLR2026RSAUMH470C",
+      "Model": "Range_Rover_Sport",
+      "Trim": "Autobiography",
+      "Year": 2026,
+      "Fuel": "Hybrid",
+      "Price": 369000,
+      "Color": "Magenta",
+      "Date": "20-09-2025"
+   },
+   {
+      "VIN": "JLR2026RSSVGEBB0E",
+      "Model": "Range_Rover_Sport",
+      "Trim": "SV",
+      "Year": 2026,
+      "Fuel": "Electric",
+      "Price": 421000,
+      "Color": "Green",
+      "Date": "25-09-2025"
+   }
+]
